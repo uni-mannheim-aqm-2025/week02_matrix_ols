@@ -1,8 +1,9 @@
 ---
 title: "AQM Week 02 -- OLS in Matrix Form"
-author: 
-  - "Oliver Rittmann"
-date: "February 21, 2024"
+author:
+  - "Domantas Undzėnas"
+  - "Muhammad Muhammad"
+date: "February 20 | 21, 2025"
 output:
   html_document:
     toc: true
