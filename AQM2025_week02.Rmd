@@ -537,14 +537,14 @@ x <- rnorm(500)
 e <- rnorm(500, 0, 0.5) # vary the variance to induce correlation
 
 # set a value for delta and simulate data (relation of confounder z with x)
-delta <- 1
+delta <- 
 z <- delta*x + e
 
 # check correlation
 cor(x, z)
 
 # set a value for gamma (relation of confounder z with y)
-gamma <- 1 # vary coefficient size
+gamma <-  # vary coefficient size
 
 # apply the function
 ovb(x, z, gamma)
